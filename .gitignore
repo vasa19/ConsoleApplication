@@ -4,3 +4,10 @@
 
 /UniversityAdmissionPortal/.vs/UniversityAdmissionPortal/v16
 /UniversityAdmissionPortal/UniversityAdmissionPortal/obj
+/UniversityAdmissionPortal/UniversityAdmissionPortal/bin/Debug/netcoreapp3.1
+/UniversityAdmissionPortal/UniversityAdmissionPortal_BusinessLogic/bin/Debug/netcoreapp3.1
+/UniversityAdmissionPortal/UniversityAdmissionPortal_BusinessLogic/obj
+/UniversityAdmissionPortal/UniversityAdmissionPortal_DAL/bin/Debug/netcoreapp3.1
+/UniversityAdmissionPortal/UniversityAdmissionPortal_DAL/obj
+/UniversityAdmissionPortal/UniversityAdmissionPortal_EntityLayer/bin/Debug/netcoreapp3.1
+/UniversityAdmissionPortal/UniversityAdmissionPortal_EntityLayer/obj

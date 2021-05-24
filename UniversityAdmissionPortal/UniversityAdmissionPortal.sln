@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityAdmissionPortal", "UniversityAdmissionPortal\UniversityAdmissionPortal.csproj", "{45FF89A6-A8EB-40C6-90F3-8E5685B9E705}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityAdmissionPortal_PresentationLayer", "UniversityAdmissionPortal\UniversityAdmissionPortal_PresentationLayer.csproj", "{45FF89A6-A8EB-40C6-90F3-8E5685B9E705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityAdmissionPortal_DataAccessLayer", "UniversityAdmissionPortal_DAL\UniversityAdmissionPortal_DataAccessLayer.csproj", "{7E41755F-27FD-4FC0-8626-5B359AB9507B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityAdmissionPortal_BusinessLogicLayer", "UniversityAdmissionPortal_BusinessLogic\UniversityAdmissionPortal_BusinessLogicLayer.csproj", "{08706DB6-D185-4B9F-82BF-8F469DABB13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityAdmissionPortal_EntityLayer", "UniversityAdmissionPortal_EntityLayer\UniversityAdmissionPortal_EntityLayer.csproj", "{CB34F40B-EFA5-4A20-A278-F05D1BDEAFF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{45FF89A6-A8EB-40C6-90F3-8E5685B9E705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FF89A6-A8EB-40C6-90F3-8E5685B9E705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FF89A6-A8EB-40C6-90F3-8E5685B9E705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E41755F-27FD-4FC0-8626-5B359AB9507B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E41755F-27FD-4FC0-8626-5B359AB9507B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E41755F-27FD-4FC0-8626-5B359AB9507B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E41755F-27FD-4FC0-8626-5B359AB9507B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08706DB6-D185-4B9F-82BF-8F469DABB13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08706DB6-D185-4B9F-82BF-8F469DABB13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08706DB6-D185-4B9F-82BF-8F469DABB13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08706DB6-D185-4B9F-82BF-8F469DABB13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB34F40B-EFA5-4A20-A278-F05D1BDEAFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB34F40B-EFA5-4A20-A278-F05D1BDEAFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB34F40B-EFA5-4A20-A278-F05D1BDEAFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB34F40B-EFA5-4A20-A278-F05D1BDEAFF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
